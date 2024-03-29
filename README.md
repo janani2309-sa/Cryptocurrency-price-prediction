@@ -17,15 +17,13 @@ This project focuses on predicting the future prices of various cryptocurrencies
 - Scikit-learn for machine learning models and evaluation metrics
 - Matplotlib and Plotly for data visualization
 - XGBoost for gradient boosting
+- Logistic Regression
+- Random Forest
+- Support Vector Regression
+- KNN
 
-## Getting Started
-To get a local copy up and running, follow these simple steps.
-
+  
 ### Prerequisites
 - Python 3.7 or later
 - pip
 
-### Installation
-1. Clone the repository
-   ```sh
-   git clone https://github.com/<your_username>/<repository_name>.git
